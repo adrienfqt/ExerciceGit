@@ -2,3 +2,7 @@ feature
 fff
 ceci est une erreur
 Corrigée
+
+~données corrompues ggg
+~données corrompues ceci est une erreur corrigée
+~données corrompues Release
